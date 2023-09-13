@@ -1,0 +1,1 @@
+### This is a simple exercise to better understand the life cycle concepts in React
